@@ -1,0 +1,6 @@
+i usede few git commands like
+branch
+fork
+clone
+merge
+commit
